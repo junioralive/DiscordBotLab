@@ -40,6 +40,12 @@ Welcome to **DiscordBotLab** – a repository dedicated to hosting and managing 
   - **LangChain:** Uses `LangChain` to interact with the LLaMA model for answering quiz questions.
 </details>
 
+## 🔧 How to Use Bots
+To use any bot in this repository:
+1. Download the respective `.ipynb` (Jupyter Notebook) file from the repository.
+2. Follow the steps provided inside the notebook.
+3. You're good to go!
+
 ## 🌟 Future Additions
 **DiscordBotLab** is an ever-growing repository, and we plan to add more bots based on the LLaMA model and other cutting-edge technologies. Stay tuned for updates!
 
